@@ -14,6 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <menuitem onclick="window.open('//facebook.com/sharer/sharer.php?u='+window.location.href);">menuitem3
   </menuitem>
   </menu>
-  <menuitem onclick="window.location='mailto:?body='+window.location.href;"> menuitem4
+  <menuitem onclick="window.location='mailto:?body='+window.location.href;">menuitem4
   </menuitem>
 </menu>
